@@ -29,8 +29,8 @@ function App() {
       <div className='flex-1 w-1/2 text-[#fcd34d] font-bold mt-10 lg:mt-44 mx-10 text-4xl'>
       <p>Hi! I'm Shreya Web Developer</p>
       <div className='text-white  text-sm mt-8'>
-      <p className='tracking-widest'>To be a Web developer is so amazing career,i can help everyone build their business,<br/>it such happiness for me.
-        so let me to help you!
+      <p className='tracking-widest'>To be a web developer is such an amazing career. I can help everyone build their business, <br/>and it brings me so much happiness.
+      So, let me help you!
       </p>
       </div>
       <div className='flex gap-4 mt-8'>
